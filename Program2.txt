@@ -1,0 +1,71 @@
+Student: Dakota Wilson
+
+       2.00000 feet equals
+       0.66667 Yards
+      24.00000 Inches
+      60.96000 Centimeters
+       0.60960 Meters
+
+
+      39.20900 feet equals
+      13.06967 Yards
+     470.50800 Inches
+    1195.09032 Centimeters
+      11.95090 Meters
+
+
+       3.00000 feet equals
+       1.00000 Yards
+      36.00000 Inches
+      91.44000 Centimeters
+       0.91440 Meters
+
+
+     100.00000 feet equals
+      33.33333 Yards
+    1200.00000 Inches
+    3048.00000 Centimeters
+      30.48000 Meters
+
+
+      78.92100 feet equals
+      26.30700 Yards
+     947.05200 Inches
+    2405.51208 Centimeters
+      24.05512 Meters
+
+
+      86.50000 feet equals
+      28.83333 Yards
+    1038.00000 Inches
+    2636.52000 Centimeters
+      26.36520 Meters
+
+
+      10.00000 feet equals
+       3.33333 Yards
+     120.00000 Inches
+     304.80000 Centimeters
+       3.04800 Meters
+
+
+   34912.00000 feet equals
+   11637.33333 Yards
+  418944.00000 Inches
+ 1064117.76000 Centimeters
+   10641.17760 Meters
+
+
+      45.88000 feet equals
+      15.29333 Yards
+     550.56000 Inches
+    1398.42240 Centimeters
+      13.98422 Meters
+
+
+      87.09000 feet equals
+      29.03000 Yards
+    1045.08000 Inches
+    2654.50320 Centimeters
+      26.54503 Meters
+
